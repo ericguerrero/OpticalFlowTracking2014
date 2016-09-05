@@ -1,0 +1,20 @@
+Nivel de dificultad *****
+
+
+'Tomas/VIDEO0156.mp4'---perfect--------------------------------------------------------1 bola 			|*    |
+
+'Tomas/VIDEO0158.mp4'---DISTANCIA AJUSTADA,las trayectorias se juntan al final---------3 bolas,2mov		|**   |
+
+'Tomas/VIDEO0159.mp4'---perfect--------------------------------------------------------3 bolas,2mov		|***  |
+
+'Tomas/VIDEO0166.mp4'---perfect--------------------------------------------------------2 bolas, giros		|**   |
+
+'Tomas/VIDEO0168.mp4'---perfect--------------------------------------------------------2 bolas, direcciones	|**** |
+
+'Tomas/VIDEO0170.mp4'---perfect--------------------------------------------------------2 bolas, cruce rapido	|**** |
+
+'Tomas/VIDEO0172D.mp4'---RADIO AJUSTADO, cruze salto, a punto, confunde trajectorias--2 bolas, cruze salto	|*****|
+
+'Tomas/VIDEO0184.mp4'---perfect--------------------------------------------------------2 bolas, direcciones	|**** |
+
+'Tomas/VIDEO0185.mp4'---perfect--------------------------------------------------------3 bolas,3mov		|***  |
